@@ -1,0 +1,1 @@
+console.log(/^[^aA]{6,}/.test("Wonderful, Joyful"))
